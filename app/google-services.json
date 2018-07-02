@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963083311489",
+    "firebase_url": "https://dmcpushnotificationexa1.firebaseio.com",
+    "project_id": "dmcpushnotificationexa1",
+    "storage_bucket": "dmcpushnotificationexa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963083311489:android:bdf3e9bd5097bce1",
+        "android_client_info": {
+          "package_name": "com.kaushal.cdac.dmcpushnotificatoinexa1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963083311489-a6isf2q6mp502h6qjag8eb5tns0jflqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhvovZKJrUYvp0UpBm6Xu3fs8YNwhjBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
